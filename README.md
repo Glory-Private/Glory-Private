@@ -18,10 +18,10 @@ Software engineer and developer
 * **Im Learning Python, Lua and More**
 * **I am a developer, and I only work on things that interest me.**
 
-
+<br>
 ### 🔗 Project Highlights
 
 | Auto Wall Flick |
 | :---: |
 | ![Wall Flick]([<img width="489" height="822" alt="wall_flick (2) (1)" src="https://github.com/user-attachments/assets/7454c520-b5c3-4e9e-9da6-48b580306602" />]) |
-| *Highly complex auto defense system* |
+| *Wall flick robot with edge detection* |
