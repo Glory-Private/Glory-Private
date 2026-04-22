@@ -21,7 +21,8 @@ Software engineer and developer
 
 ### 🔗 Project Highlights
 
-| Auto Wall Flick |
-| :---: |
-| ![Wall Flick]([<img width="489" height="822" alt="wall_flick (2) (1)" src="https://github.com/user-attachments/assets/7454c520-b5c3-4e9e-9da6-48b580306602" />]) |
-| *Wall flick robot with edge detection* |
+| Auto Wall Flick | Smooth Locking |
+| :---: || :---: |
+| ![Wall Flick]([<img width="489" height="822" alt="wall_flick (2) (1)" src="https://github.com/user-attachments/assets/7454c520-b5c3-4e9e-9da6-48b580306602" />]) |![ClosetCheating]([<img width="270" height="293" alt="ezgif-334483593c69c0cf (1) (1)" src="https://github.com/user-attachments/assets/0e89bcb7-6fac-43c3-a414-8c8961375def" />
+]) |
+| *Wall flick robot with edge detection* |*human like motion aim logic* |
