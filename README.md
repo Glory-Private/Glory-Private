@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Glory-Private/Glory-Private** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello world! Im Glory
 
-Here are some ideas to get you started:
+Software engineer and developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<br><br><br>
+  
+  **About Me**
+<br>
+I am dedicated to cybersecurity
+
+* **I am mainly interested in and working in security-related fields.**
+* **Im Learning Python, Lua and More**:
+* **I am a developer, and I only work on things that interest me.**
