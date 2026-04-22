@@ -18,7 +18,7 @@ Software engineer and developer
 * **Im Learning Python, Lua and More**
 * **I am a developer, and I only work on things that interest me.**
 
-<br>
+
 ### 🔗 Project Highlights
 
 | Auto Wall Flick |
