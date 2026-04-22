@@ -21,7 +21,7 @@ Software engineer and developer
 
 ### 🔗 Project Highlights
 
-| Auto Wall Flick | Closet Cheating |
+| Auto Wall Flick | cc |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/3fe28f90-1b60-4d46-ac24-34a044bddd24" width="100%"> | <img src="https://github.com/user-attachments/assets/7ad5d4a3-e849-4e0e-8756-f9c2cb8dfb0e" width="100%"> |
 | *Wall flick robot with edge detection* | *Human-like motion aim logic* |
