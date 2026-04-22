@@ -3,6 +3,7 @@
 # Hello world! Im Glory
 
 Software engineer and developer
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,discord,bots,py,visualstudio,vscode)](https://skillicons.dev)
 
 </div>
