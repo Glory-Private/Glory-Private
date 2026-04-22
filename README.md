@@ -22,6 +22,6 @@ Software engineer and developer
 ### 🔗 Project Highlights
 
 | Auto Wall Flick |
-| :---: | :---: |
+| :---: |
 | ![Wall Flick](<img width="489" height="822" alt="wall_flick (2) (1)" src="https://github.com/user-attachments/assets/7624de31-65a2-4ea1-bdaf-7bc1cc7cfaee" />) |
 | *Wall flick robot with edge detection* |
