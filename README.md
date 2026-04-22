@@ -23,5 +23,5 @@ Software engineer and developer
 
 | Auto Wall Flick | Closet Cheating |
 | :---: | :---: |
-| ![Wall Flick](<img width="489" height="822" alt="wall_flick (2) (1)" src="https://github.com/user-attachments/assets/3fe28f90-1b60-4d46-ac24-34a044bddd24" />) | ![Smooth Locking](<img width="270" height="293" alt="ezgif334483593c69c0cf (1) (1)"src="https://github.com/userattachments/assets/95b80307-ae0f-47ae-a301-a2c544411f13" />) |
+| <img src="https://github.com/user-attachments/assets/3fe28f90-1b60-4d46-ac24-34a044bddd24" width="100%"> | <img src="https://github.com/user-attachments/assets/7ad5d4a3-e849-4e0e-8756-f9c2cb8dfb0e" width="100%"> |
 | *Wall flick robot with edge detection* | *Human-like motion aim logic* |
