@@ -3,8 +3,8 @@
 # Hello world! Im Glory
 
 Software engineer and developer
+[![My Skills](https://skillicons.dev/icons?i=js,html,discord,bots,py,visualstudio,vscode)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 </div>
 <br><br><br>
   
