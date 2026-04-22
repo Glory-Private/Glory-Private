@@ -23,7 +23,5 @@ Software engineer and developer
 
 | Auto Wall Flick | Smooth Locking |
 | :---: | :---: |
-| ![Wall Flick](<img width="489" height="822" alt="wall_flick (2) (1)" src="https://github.com/user-attachments/assets/472430a6-3cdd-4d3a-bd29-e4fb5e5d47f0" />
-) | ![Smooth Locking](<img width="270" height="293" alt="ezgif-334483593c69c0cf (1) (1)" src="https://github.com/user-attachments/assets/9042e282-8b7c-43e9-87c3-ee63c639d9c6" />
-) |
+| ![Wall Flick](<img width="489" height="822" alt="wall_flick (2) (1)" src="https://github.com/user-attachments/assets/757e79a3-4cdd-45eb-b233-af5557aa21ce" />) | ![Smooth Locking](<img width="270" height="293" alt="ezgif-334483593c69c0cf (1) (1)" src="https://github.com/user-attachments/assets/b47f2cf4-400b-4676-8e05-bad145aab2ac" />) |
 | *Wall flick robot with edge detection* | *Human-like motion aim logic* |
