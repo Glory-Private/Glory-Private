@@ -4,7 +4,7 @@
 
 Software engineer and developer
 
-[![My Skills](https://skillicons.dev/icons?i=js,discord,bots,py,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,discord,bots,py,visualstudio,vscode,lua)](https://skillicons.dev)
 
 </div>
 <br><br><br>
